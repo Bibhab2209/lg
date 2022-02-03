@@ -1,1 +1,1 @@
-# lg
+# solar_power
